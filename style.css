@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.form{
+    font-family:'Montserrat';
+    position:absolute;
+    justify-content: center;
+    align-items: center;
+    left: 40rem;
+    top:15rem;
+}
+
+.labell{
+    font-family:'Montserrat';
+}
+
+
+.className{
+    font-family:'Montserrat';
+    border-color:red;
+}
+
+.butto{
+    font-family:'Montserrat';
+    background-color: blue;
+    color: white;
+    width: 5rem;
+    height: 2rem;
+}
+
+.redclass{
+    color: red;
+}
+
+.p,.cp{
+    border-color: red;
+}
+
+
+.email,.p,.cp{
+    width: 20rem;
+    height: 2rem;
+    border-radius: 7px;
+}
+
+
